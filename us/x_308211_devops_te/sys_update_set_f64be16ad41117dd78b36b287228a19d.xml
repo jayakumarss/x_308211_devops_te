@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2019-11-21 13:48:45">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="DevOps Test1 Scped">c4729330dbdd0010343f58b3ca9619e4</application>
+<application_name>DevOps Test1 Scped</application_name>
+<application_scope>x_308211_devops_te</application_scope>
+<application_version>1.0.0</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>Automatically created by CICD Process</description>
+<inserted/>
+<name>DevOps Test1 Scped - 1.0.0</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value="DevOps Test1 Scped - 1.0.0">04561338dbdd0010343f58b3ca9619e4</remote_base_update_set>
+<remote_parent_id/>
+<remote_sys_id>f64be16ad41117dd78b36b287228a19d</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-11-21 13:48:45</sys_created_on>
+<sys_id>04561338dbdd0010343f58b3ca9619e4</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-11-21 13:48:45</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="DevOps Test1 Scped">c4729330dbdd0010343f58b3ca9619e4</application>
+<application_name>DevOps Test1 Scped</application_name>
+<application_scope>x_308211_devops_te</application_scope>
+<application_version>1.0.0</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>Automatically created by CICD Process</description>
+<inserted/>
+<name>DevOps Test1 Scped - 1.0.0</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value="DevOps Test1 Scped - 1.0.0">04561338dbdd0010343f58b3ca9619e4</remote_base_update_set>
+<remote_parent_id/>
+<remote_sys_id>f64be16ad41117dd78b36b287228a19d</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-11-21 13:48:45</sys_created_on>
+<sys_id>04561338dbdd0010343f58b3ca9619e4</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-11-21 13:48:45</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+</unload>
